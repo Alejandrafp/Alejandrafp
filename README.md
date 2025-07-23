@@ -44,6 +44,7 @@ Sistema ERP con módulos de ventas, inventario y reportería.
 - React
 - UX Writing
 - Accesibilidad Web
+- Godot
 
 ---
 
