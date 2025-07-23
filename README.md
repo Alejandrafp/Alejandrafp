@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy María Alejandra </h1>
+<h1 align="center">Hola 👋, soy Alejandra </h1>
 
 💻 Desarrolladora de software con enfoque en soluciones escalables, UX/UI y tecnología con impacto social.  
 🌍 Desde Honduras — disponible para trabajo remoto.
@@ -54,7 +54,7 @@ Me interesa colaborar en:
 - Iniciativas de tecnología para el bien común.
 - Equipos que trabajen con accesibilidad y desarrollo inclusivo.
 
-📫 **Contáctame:** mafunez02@gmail.com  
+📫 **Contáctame:**
 🔗 [LinkedIn](https://www.linkedin.com/in/mfunez/) | [Portafolio](https://portfolio-mafp.netlify.app/#)
 
 ---
